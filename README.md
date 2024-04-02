@@ -55,10 +55,10 @@
 </td>       
 
 <td width="50%">
-<h3 align="center">Curso Kotlin Multiplatform</h3>
+<h3 align="center">Curso de Ciencia de Datos con Python</h3>
 <div align="center">
 <a <img src="https://i.imgur.com/nDDp1Ra.jpg" width="400" alt="Curso Kotlin Multiplatform"></a>
-<p>Aprende a programar aplicaciones <strong>multiplataform con Kotlin y Jetpack Compose</p>
+<p>Aprende a programar en python y saca máximo provecho al análisis de datos.</p>
 </div>
                                                                                       
 </td>  
@@ -70,7 +70,6 @@
 
 <p align="center">
 <a href="https://github.com/Alejosotog">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArisGuimera&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArisGuimera&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="230em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArisGuimera&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
 </p>
