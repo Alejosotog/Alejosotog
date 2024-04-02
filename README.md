@@ -1,7 +1,7 @@
 <div align="center">
 <p align="center">Hola, soy <a href=>Alejosotog</a> </p>
 <h1 align="center"> <a href=>John Alejandro Soto Gómez</a> </h1>
-<p align="center">Soy apasionado por la programación, la ciencia de datos y la gestión de proyectos.</p>
+<p align="center">I am passionate about programming, data science and project management.</p>
 <img src="https://imgur.com/vhBnPV2.png">
 </div>
 
