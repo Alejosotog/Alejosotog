@@ -1,5 +1,5 @@
 <div align="center">
-<p align="center">Hola, soy <a href=>Alejosotog</a> </p>
+<p align="center">Hi, I'm <a href=>Alejosotog</a> </p>
 <h1 align="center"> <a href=>John Alejandro Soto Gómez</a> </h1>
 <p align="center">I am passionate about programming, data science and project management.</p>
 <img src="https://imgur.com/vhBnPV2.png">
